@@ -3,6 +3,7 @@ import sys
 import time
 from deck import *
 import random
+# MADE BY BHAVESH SOOD
 #Gradiant Code from Net , Pygame recipe: http://www.pygame.org/wiki/GradientCode
 
 pygame.init()
