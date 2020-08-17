@@ -22,7 +22,7 @@ pygame.display.set_caption("Rummy")
 run=True
 # win.fill((255,0,0))
 upd=pygame.display.update
-a=pygame.image.load(r"t\2_C.png")
+a=pygame.image.load("t/2_C.png")
 
 
 discardedpile=[]
