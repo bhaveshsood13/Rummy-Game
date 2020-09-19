@@ -1,7 +1,7 @@
 # Rummy-Game
 Rummy Game Made on Python
 
-This is the Indian Version of the game Rummy made on Python.
+This is the Indian Version of the game Rummy made on `Python`.
 
 
 To Play :
