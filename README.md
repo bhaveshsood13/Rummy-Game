@@ -14,4 +14,9 @@ To Play :
  
  Step 4: Type-  py rummyfinal.py 
  
-  
+ ## Screenshots
+ ![image](https://user-images.githubusercontent.com/55682219/102823081-3718e800-4400-11eb-94e3-2ec15840eb33.png)
+
+
+![image](https://user-images.githubusercontent.com/55682219/102823200-83fcbe80-4400-11eb-81a7-e3704004ee49.png)
+
